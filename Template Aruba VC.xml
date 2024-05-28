@@ -846,7 +846,7 @@
                             <type>15</type>
                             <snmp_community/>
                             <snmp_oid/>
-                            <key>iAPUsedMemory</key>
+                            <key>iAPUsedMemory.[{#APNAME}]</key>
                             <delay>60s</delay>
                             <history>90d</history>
                             <trends>365d</trends>
